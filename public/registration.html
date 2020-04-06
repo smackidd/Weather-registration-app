@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registration</title>
+</head>
+<body>
+    <form action = "http://localhost:5000/users" method = "POST">
+        ID: <input type = "text" name = "ID">  <br>
+        Full Name: <input type = "text" name = "full_name"> <br>
+        Address: <input type = "text" name = "address"> <br>
+        <label for="user-type">Type of user: </label>
+        <select id="user-type" name="usertype">
+            <option value="student">Student</option>
+            <option value="staff">Staff</option>    
+            <option value="volunteer">Volunteer</option>
+        </select>
+        <input type = "submit" value = "Submit">
+    </form>
+</body>
+</html>

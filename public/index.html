@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather</title>
+</head>
+<body>
+    <div id="weather"></div>
+    <button type="button" id="button">BVC SportsClub</button>
+    <script>
+        fetch('https://api.openweathermap.org/data/2.5/weather?q=Calgary&appid=962e3c64461a76ff07faa09f146b5cc8')
+          .then((res) => res.json())
+          .then((data) => {
+            const temperature = Math.round(data.main.temp - 273.15);  
+            document.getElementById('weather').innerHTML = `<h2>Weather for ${data.name}</h2>
+            <br>
+            <p>Temperature: ${temperature}C</p>
+            <p>Description: ${data.weather[0].main}</p>`
+          });
+
+        const button = document.getElementById('button');
+        button.addEventListener('click', ()=>{
+          window.location.assign("http://localhost:5000/registration.html");
+        })
+    </script>
+</body>
+</html>

@@ -1,0 +1,142 @@
+{
+  "user": [
+    {
+      "ID": "3",
+      "full_name": "kat",
+      "address": "181818",
+      "usertype": "staff"
+    },
+    {
+      "ID": "1",
+      "full_name": "steve",
+      "address": "1760 Douglas Glen Grove SE",
+      "usertype": "student"
+    },
+    {
+      "ID": "2",
+      "full_name": "steve",
+      "address": "aaaa",
+      "usertype": "staff"
+    },
+    {
+      "ID": "5",
+      "full_name": "brad",
+      "address": "bow valley college",
+      "usertype": "staff"
+    },
+    {
+      "ID": "4",
+      "full_name": "brad",
+      "address": "bow valley college",
+      "usertype": "staff"
+    },
+    {
+      "ID": "7",
+      "full_name": "dheeraj",
+      "address": "here",
+      "usertype": "student"
+    },
+    {
+      "ID": "6",
+      "full_name": "aidrian",
+      "address": "nowhere",
+      "usertype": "student"
+    },
+    {
+      "ID": "10",
+      "full_name": "tg",
+      "address": "bow valley",
+      "usertype": "staff"
+    },
+    {
+      "ID": "10",
+      "full_name": "tg",
+      "address": "bow valley",
+      "usertype": "staff"
+    },
+    {
+      "ID": "23",
+      "full_name": "elliott",
+      "address": "1760 Douglas Glen Grove SE",
+      "usertype": "student"
+    },
+    {
+      "ID": "24",
+      "full_name": "ruby",
+      "address": "1760 Douglas Glen Grove SE",
+      "usertype": "volunteer"
+    },
+    {
+      "ID": "19",
+      "full_name": "mina",
+      "address": "1760 Douglas Glen Grove SE",
+      "usertype": "staff"
+    },
+    {
+      "ID": "105",
+      "full_name": "moose",
+      "address": "1760 Douglas Glen Grove SE",
+      "usertype": "staff"
+    },
+    {
+      "ID": "16",
+      "full_name": "bruce",
+      "address": "douglasdale",
+      "usertype": "staff"
+    },
+    {
+      "ID": "25",
+      "full_name": "linda",
+      "address": "douglasdale",
+      "usertype": "volunteer"
+    },
+    {
+      "ID": "25",
+      "full_name": "linda",
+      "address": "douglasdale",
+      "usertype": "volunteer"
+    },
+    {
+      "ID": "28",
+      "full_name": "christie",
+      "address": "renfrew",
+      "usertype": "student"
+    },
+    {
+      "ID": "1",
+      "full_name": "asdf",
+      "address": "asdfdfd",
+      "usertype": "student"
+    },
+    {
+      "ID": "88",
+      "full_name": "eric lindros",
+      "address": "philadelphia",
+      "usertype": "student"
+    },
+    {
+      "ID": "99",
+      "full_name": "wayne gretzky",
+      "address": "edmonton",
+      "usertype": "staff"
+    },
+    {
+      "ID": "66 ",
+      "full_name": "mario lemieux",
+      "address": "pittsburgh",
+      "usertype": "volunteer"
+    },
+    {
+      "ID": "66 ",
+      "full_name": "mario lemieux",
+      "address": "pittsburgh",
+      "usertype": "volunteer"
+    },
+    {
+      "ID": "77",
+      "full_name": "Paul Coffee",
+      "address": "Edmonton",
+      "usertype": "volunteer"
+    }
+  ]
+}
